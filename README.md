@@ -2,7 +2,6 @@ This is an app where you can order a taxi and choose the location of the order o
 
 Link to Heroku (wait 5-10 minutes for the server to fully work): **https://go-taxi-app.herokuapp.com/**
 
-Technologies:
 Front End:
 Google Map Api, React, React-Hooks, React Final Form, Redux, Axios, Typescript,  JavaScript, JSON, SCSS,  HTML5, CSS3, Bootstrap.
 
